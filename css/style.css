@@ -322,6 +322,10 @@ span{
   width: 30%;
 }
 
+.descricao-tech{
+  text-align: center;
+}
+
 .texto{
   width: 50%;
 }
